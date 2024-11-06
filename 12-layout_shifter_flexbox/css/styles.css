@@ -55,7 +55,7 @@ p {
     flex-direction: column-reverse;
   }
   .contenido-principal{
-    display: flex;
+    display: flex;  
     justify-content: space-between;
   }
 }
